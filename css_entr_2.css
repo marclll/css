@@ -1,0 +1,17 @@
+div.relative{
+	position: relative;
+	left: 180px;
+}
+div.absolute{
+	position: absolute;
+}
+div.static{
+	position: static;
+}
+div.sticky{
+	position: sticky;
+	top: 0;
+}
+div.fixed{
+	position: fixed;
+}
