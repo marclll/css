@@ -1,0 +1,23 @@
+html,body{
+	margin:0;
+	padding:0;
+	background-color;#deccff;
+}
+
+#container{
+	margin-top:100px;
+	width:60vw;
+	height:100vh;
+	display:flex;
+	align-content: center;
+}
+
+#container>div{
+	position:relative;
+	height:150px;
+	margin:5px 7px;
+}
+
+#container>div>img{
+
+}
